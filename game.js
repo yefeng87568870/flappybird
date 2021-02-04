@@ -1,6 +1,12 @@
-import './js/libs/weapp-adapter'
-import './js/libs/symbol'
+//引入main类 并实例化main对象
+import {Main} from "./Main.js";
 
-import Main from './js/main'
+new Main();
 
-new Main()
+
+
+
+
+
+
+
