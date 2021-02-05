@@ -22,7 +22,7 @@ export class DataStore{
     return this.map.get(key);
   }
   //销毁数据
-  distroy(){
+  destroy(){
      this.map.clear();
   }
 }
