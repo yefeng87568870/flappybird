@@ -46,8 +46,8 @@
 				|--Background.js => 背景图
 				|--Land.js => 地板图
 				|--Pipe.js => 水管的基类
-				|--UpPige.js => 上边的水管
-				|--DownPige.js => 下边的水管
+				|--UpPipe.js => 上边的水管
+				|--DownPipe.js => 下边的水管
 
 
 
